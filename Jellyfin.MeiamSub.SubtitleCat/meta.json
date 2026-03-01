@@ -1,0 +1,12 @@
+{
+    "category": "Subtitles",
+    "description": "Download subtitles from SubtitleCat.com",
+    "guid": "B1A2C3D4-E5F6-7890-ABCD-EF1234567890",
+    "name": "MeiamSub.SubtitleCat",
+    "owner": "Meiam",
+    "targetAbi": "10.11.0.0",
+    "timestamp": "2026-03-01T10:00:00.0000000Z",
+    "version": "1.0.0.0",
+    "status": "Active",
+    "imagePath": "thumb.png"
+}
